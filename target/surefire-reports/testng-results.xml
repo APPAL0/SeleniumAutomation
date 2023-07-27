@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69373" started-at="2023-07-27T05:20:30Z" finished-at="2023-07-27T05:21:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69373" started-at="2023-07-27T05:20:30Z" finished-at="2023-07-27T05:21:40Z">
+      <class name="ddtExample.NOPCommLogin">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:ddtExample.NOPCommLogin@23529fee]" name="launchApp" is-config="true" duration-ms="15485" started-at="2023-07-26T22:20:30Z" finished-at="2023-07-26T22:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLoginWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:ddtExample.NOPCommLogin@23529fee]" name="verifyLoginWithInValidCred" duration-ms="14024" started-at="2023-07-26T22:20:46Z" data-provider="regressionTest" finished-at="2023-07-26T22:21:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[poojaRegression@google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Welcome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidCred -->
+        <test-method status="PASS" signature="verifyLoginWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:ddtExample.NOPCommLogin@23529fee]" name="verifyLoginWithInValidCred" duration-ms="13143" started-at="2023-07-26T22:21:00Z" data-provider="regressionTest" finished-at="2023-07-26T22:21:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SaranyaRegression@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Demo@122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidCred -->
+        <test-method status="PASS" signature="verifyLoginWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:ddtExample.NOPCommLogin@23529fee]" name="verifyLoginWithInValidCred" duration-ms="13189" started-at="2023-07-26T22:21:13Z" data-provider="regressionTest" finished-at="2023-07-26T22:21:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PraveenRegression@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo@123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidCred -->
+        <test-method status="PASS" signature="verifyLoginWithInValidCred(java.lang.String, java.lang.String)[pri:0, instance:ddtExample.NOPCommLogin@23529fee]" name="verifyLoginWithInValidCred" duration-ms="13334" started-at="2023-07-26T22:21:26Z" data-provider="regressionTest" finished-at="2023-07-26T22:21:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SubhenduRegression@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo@123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidCred -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:ddtExample.NOPCommLogin@23529fee]" name="closeApp" is-config="true" duration-ms="195" started-at="2023-07-26T22:21:40Z" finished-at="2023-07-26T22:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- ddtExample.NOPCommLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

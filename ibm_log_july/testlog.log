@@ -1,0 +1,88 @@
+2023-07-18 10:46:15,365 - NOP Comm App -INFO - ------------info-----------------
+2023-07-18 10:46:15,371 - NOP Comm App -ERROR - ------------error-----------------
+2023-07-18 10:46:15,371 - NOP Comm App -WARN - ------------warn-----------------
+2023-07-18 10:46:18,042 - NOP Comm App -INFO - launching chrome browser
+2023-07-18 10:46:27,908 - NOP Comm App -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-18 10:47:01,891 - NOP Comm App -INFO - ------------info-----------------
+2023-07-18 10:47:01,894 - NOP Comm App -ERROR - ------------error-----------------
+2023-07-18 10:47:01,895 - NOP Comm App -WARN - ------------warn-----------------
+2023-07-18 10:47:04,061 - NOP Comm App -INFO - launching chrome browser
+2023-07-18 10:47:13,420 - NOP Comm App -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-18 10:47:20,448 - NOP Comm App -INFO - -----enter user details-----
+2023-07-18 10:47:20,450 - NOP Comm App -INFO - clear email
+2023-07-18 10:47:22,529 - NOP Comm App -INFO - enter email: admin@yourstore.com
+2023-07-18 10:47:22,631 - NOP Comm App -INFO - clear password
+2023-07-18 10:47:22,718 - NOP Comm App -INFO - enter pass: admin
+2023-07-18 10:47:22,777 - NOP Comm App -INFO - click on rememberMe checkbox
+2023-07-18 10:47:22,849 - NOP Comm App -INFO - click on login button
+2023-07-18 10:47:31,871 - NOP Comm App -INFO - click on logout button
+2023-07-18 10:47:38,322 - NOP Comm App -INFO - verify application title, actual title: Your store. Login
+2023-07-18 10:47:38,328 - NOP Comm App -INFO - closing an application
+2023-07-18 10:51:32,570 - NOP Comm App -INFO - ------------info-----------------
+2023-07-18 10:51:32,573 - NOP Comm App -ERROR - ------------error-----------------
+2023-07-18 10:51:32,573 - NOP Comm App -WARN - ------------warn-----------------
+2023-07-18 10:51:34,089 - NOP Comm App -INFO - launching chrome browser
+2023-07-18 10:51:43,871 - NOP Comm App -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-18 10:51:50,906 - NOP Comm App -INFO - -----enter user details-----
+2023-07-18 10:51:50,906 - NOP Comm App -INFO - clear email
+2023-07-18 10:51:52,973 - NOP Comm App -INFO - enter email: admin@yourstore.com
+2023-07-18 10:51:53,019 - NOP Comm App -INFO - clear password
+2023-07-18 10:51:53,049 - NOP Comm App -INFO - enter pass: admin
+2023-07-18 10:51:53,082 - NOP Comm App -INFO - click on rememberMe checkbox
+2023-07-18 10:51:53,117 - NOP Comm App -INFO - click on login button
+2023-07-18 10:51:56,998 - NOP Comm App -INFO - verify application title after login, actual title: Dashboard / nopCommerce administration
+2023-07-18 10:52:02,012 - NOP Comm App -INFO - click on logout button
+2023-07-18 10:52:08,273 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-18 10:52:08,280 - NOP Comm App -INFO - closing an application
+2023-07-20 10:14:56,619 - NOP Comm App -INFO - ------------info-----------------
+2023-07-20 10:14:56,624 - NOP Comm App -ERROR - ------------error-----------------
+2023-07-20 10:14:56,624 - NOP Comm App -WARN - ------------warn-----------------
+2023-07-20 10:14:58,291 - NOP Comm App -INFO - launching chrome browser
+2023-07-20 10:15:10,443 - NOP Comm App -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-20 10:15:17,474 - NOP Comm App -INFO - -----enter user details-----
+2023-07-20 10:15:17,474 - NOP Comm App -INFO - clear email
+2023-07-20 10:15:19,556 - NOP Comm App -INFO - enter email: admin@yourstore.com
+2023-07-20 10:15:19,620 - NOP Comm App -INFO - clear password
+2023-07-20 10:15:19,652 - NOP Comm App -INFO - enter pass: admin
+2023-07-20 10:15:19,692 - NOP Comm App -INFO - click on rememberMe checkbox
+2023-07-20 10:15:19,739 - NOP Comm App -INFO - click on login button
+2023-07-20 10:15:23,334 - NOP Comm App -INFO - verify application title after login, actual title: Dashboard / nopCommerce administration
+2023-07-20 10:15:28,339 - NOP Comm App -INFO - click on logout button
+2023-07-20 10:15:34,797 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-20 10:15:34,806 - NOP Comm App -INFO - closing an application
+2023-07-24 09:28:52,359 - NOP Comm App -INFO - ------------info-----------------
+2023-07-24 09:28:52,361 - NOP Comm App -ERROR - ------------error-----------------
+2023-07-24 09:28:52,362 - NOP Comm App -WARN - ------------warn-----------------
+2023-07-24 09:28:57,998 - NOP Comm App -INFO - launching chrome browser
+2023-07-24 09:29:10,109 - NOP Comm App -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-24 09:29:17,136 - NOP Comm App -INFO - -----enter user details-----
+2023-07-24 09:29:17,136 - NOP Comm App -INFO - clear email
+2023-07-24 09:29:19,192 - NOP Comm App -INFO - enter email: admin@yourstore.com
+2023-07-24 09:29:19,242 - NOP Comm App -INFO - clear password
+2023-07-24 09:29:19,280 - NOP Comm App -INFO - enter pass: admin
+2023-07-24 09:29:19,317 - NOP Comm App -INFO - click on rememberMe checkbox
+2023-07-24 09:29:19,351 - NOP Comm App -INFO - click on login button
+2023-07-24 09:29:22,670 - NOP Comm App -INFO - verify application title after login, actual title: Dashboard / nopCommerce administration
+2023-07-24 09:29:27,684 - NOP Comm App -INFO - click on logout button
+2023-07-24 09:29:34,019 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-24 09:29:34,028 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-24 09:29:34,036 - NOP Comm App -INFO - closing an application
+2023-07-24 09:30:19,749 - NOP Comm App -INFO - ------------info-----------------
+2023-07-24 09:30:19,752 - NOP Comm App -ERROR - ------------error-----------------
+2023-07-24 09:30:19,752 - NOP Comm App -WARN - ------------warn-----------------
+2023-07-24 09:30:21,624 - NOP Comm App -INFO - launching chrome browser
+2023-07-24 09:30:31,401 - NOP Comm App -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-24 09:30:38,426 - NOP Comm App -INFO - -----enter user details-----
+2023-07-24 09:30:38,426 - NOP Comm App -INFO - clear email
+2023-07-24 09:30:40,470 - NOP Comm App -INFO - enter email: admin@yourstore.com
+2023-07-24 09:30:40,510 - NOP Comm App -INFO - clear password
+2023-07-24 09:30:40,539 - NOP Comm App -INFO - enter pass: admin
+2023-07-24 09:30:40,571 - NOP Comm App -INFO - click on rememberMe checkbox
+2023-07-24 09:30:40,606 - NOP Comm App -INFO - click on login button
+2023-07-24 09:30:43,090 - NOP Comm App -INFO - verify application title after login, actual title: Dashboard / nopCommerce administration
+2023-07-24 09:30:48,096 - NOP Comm App -INFO - click on logout button
+2023-07-24 09:30:54,430 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-24 09:30:54,438 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-24 09:30:54,446 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-24 09:30:54,454 - NOP Comm App -INFO - verify application title after logout, actual title: Your store. Login
+2023-07-24 09:30:54,461 - NOP Comm App -INFO - closing an application
